@@ -1,7 +1,6 @@
 {
-  "name": "node-express-firebase-crud",
+  "name": "express-firebase-crud",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,13 +13,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.19.0",
+    "body-parser": "^1.20.2",
     "cors": "^2.8.5",
-    "dotenv": "^8.2.0",
+    "dotenv": "^8.6.0",
     "express": "^4.17.1",
     "firebase": "^8.0.1"
   },
   "devDependencies": {
-    "nodemon": "^2.0.6"
-  }
+    "nodemon": "^2.0.22"
+  },
+  "description": ""
 }
